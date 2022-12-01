@@ -1,4 +1,4 @@
-# Security Policy
+# Supported versions
 
 ## Supported Python Versions
 
@@ -11,4 +11,8 @@ currently being supported with security updates.
 | 3.9     |  ✅                |
 | 3.8     | :white_check_mark: |
 | <2.0    | :x:                |
+| windows | ✅                 |
+| android | ✅                 |
+| IOS     | :x:                |  
 
+IOS compatibility in progress 👷
