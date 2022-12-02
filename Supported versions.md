@@ -2,8 +2,8 @@
 
 ## Supported Python Versions
 
-Use this section to tell people about which versions of your python are
-currently being supported with security updates.
+This section is to tell people about which versions of your python are
+currently being supporte.
 
 | Version | Supported          |
 | ------- | ------------------ |
