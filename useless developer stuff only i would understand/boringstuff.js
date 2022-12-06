@@ -1,1 +1,0 @@
-var pointOnArrayColor = 0;
